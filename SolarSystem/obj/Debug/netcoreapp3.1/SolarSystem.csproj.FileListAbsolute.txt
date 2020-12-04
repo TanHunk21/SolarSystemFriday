@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\SolarSystem\SolarSystem\bin\Debug\netcoreapp3.1\SolarSystem.exe
+C:\Users\opilane\source\repos\SolarSystem\SolarSystem\bin\Debug\netcoreapp3.1\SolarSystem.deps.json
+C:\Users\opilane\source\repos\SolarSystem\SolarSystem\bin\Debug\netcoreapp3.1\SolarSystem.runtimeconfig.json
+C:\Users\opilane\source\repos\SolarSystem\SolarSystem\bin\Debug\netcoreapp3.1\SolarSystem.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\SolarSystem\SolarSystem\bin\Debug\netcoreapp3.1\SolarSystem.dll
+C:\Users\opilane\source\repos\SolarSystem\SolarSystem\bin\Debug\netcoreapp3.1\SolarSystem.pdb
+C:\Users\opilane\source\repos\SolarSystem\SolarSystem\obj\Debug\netcoreapp3.1\SolarSystem.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\SolarSystem\SolarSystem\obj\Debug\netcoreapp3.1\SolarSystem.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\SolarSystem\SolarSystem\obj\Debug\netcoreapp3.1\SolarSystem.AssemblyInfo.cs
+C:\Users\opilane\source\repos\SolarSystem\SolarSystem\obj\Debug\netcoreapp3.1\SolarSystem.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\SolarSystem\SolarSystem\obj\Debug\netcoreapp3.1\SolarSystem.dll
+C:\Users\opilane\source\repos\SolarSystem\SolarSystem\obj\Debug\netcoreapp3.1\SolarSystem.pdb
+C:\Users\opilane\source\repos\SolarSystem\SolarSystem\obj\Debug\netcoreapp3.1\SolarSystem.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\SolarSystem\ReadPlanetFiles\bin\Debug\netcoreapp3.1\ReadPlanetFiles.exe
+C:\Users\opilane\source\repos\SolarSystem\ReadPlanetFiles\bin\Debug\netcoreapp3.1\ReadPlanetFiles.deps.json
+C:\Users\opilane\source\repos\SolarSystem\ReadPlanetFiles\bin\Debug\netcoreapp3.1\ReadPlanetFiles.runtimeconfig.json
+C:\Users\opilane\source\repos\SolarSystem\ReadPlanetFiles\bin\Debug\netcoreapp3.1\ReadPlanetFiles.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\SolarSystem\ReadPlanetFiles\bin\Debug\netcoreapp3.1\ReadPlanetFiles.dll
+C:\Users\opilane\source\repos\SolarSystem\ReadPlanetFiles\bin\Debug\netcoreapp3.1\ReadPlanetFiles.pdb
+C:\Users\opilane\source\repos\SolarSystem\ReadPlanetFiles\obj\Debug\netcoreapp3.1\ReadPlanetFiles.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\SolarSystem\ReadPlanetFiles\obj\Debug\netcoreapp3.1\ReadPlanetFiles.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\SolarSystem\ReadPlanetFiles\obj\Debug\netcoreapp3.1\ReadPlanetFiles.AssemblyInfo.cs
+C:\Users\opilane\source\repos\SolarSystem\ReadPlanetFiles\obj\Debug\netcoreapp3.1\ReadPlanetFiles.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\SolarSystem\ReadPlanetFiles\obj\Debug\netcoreapp3.1\ReadPlanetFiles.dll
+C:\Users\opilane\source\repos\SolarSystem\ReadPlanetFiles\obj\Debug\netcoreapp3.1\ReadPlanetFiles.pdb
+C:\Users\opilane\source\repos\SolarSystem\ReadPlanetFiles\obj\Debug\netcoreapp3.1\ReadPlanetFiles.genruntimeconfig.cache
